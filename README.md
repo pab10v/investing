@@ -7,10 +7,12 @@ Basic API to extract data from widgets of investing.com
 
 Just copy the files and point to
 
-Changue the endpoints in config.php for rates, single or other available in <b>investing.com</b><br>
-
 https://your_site/api_folder/index.php?a=rates <br>
 https://your_site/api_folder/index.php?a=single <br>
+
+
+**<i>Change/add the endpoints in config.php for rates, single or other available in</i> <b>investing.com</b><br>
+
 
 I added only two by now.
 
